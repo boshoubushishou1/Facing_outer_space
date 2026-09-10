@@ -1,0 +1,13 @@
+{
+  "itemGroup.facingouterspace": "Example Mod Tab",
+  "block.facingouterspace.example_block": "Example Block",
+  "item.facingouterspace.example_item": "Example Item",
+
+  "facingouterspace.configuration.title": "Facing outer space Configs",
+  "facingouterspace.configuration.section.facingouterspace.common.toml": "Facing outer space Configs",
+  "facingouterspace.configuration.section.facingouterspace.common.toml.title": "Facing outer space Configs",
+  "facingouterspace.configuration.items": "Item List",
+  "facingouterspace.configuration.logDirtBlock": "Log Dirt Block",
+  "facingouterspace.configuration.magicNumberIntroduction": "Magic Number Text",
+  "facingouterspace.configuration.magicNumber": "Magic Number"
+}
